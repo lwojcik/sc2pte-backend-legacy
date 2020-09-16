@@ -6,4 +6,4 @@ For a current version see [https://github.com/sc2pte/panel-backend](https://gith
 
 ## License
 
-Code is available under MIT license. See [LICENSE](https://raw.githubusercontent.com/lukemsc/sc2profile-twitch-extension-api/master/LICENSE) for more information.
+See [LICENSE](https://raw.githubusercontent.com/sc2pte/backend-legacy/master/LICENSE) for more information.
